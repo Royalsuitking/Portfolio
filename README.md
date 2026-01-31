@@ -1,6 +1,17 @@
 # Portfolio
+## My Contributions
 Helping Web3 projects with docs, onboarding &amp; DX Open-source contributor
 # Open Source & Web3 Portfolio
+
+### 🔹 Miroir Framework
+- **Contribution:** Improved README installation clarity
+- **PR Link:** https://github.com/miroir-framework/miroir/pull/XXX
+- **Maintainer feedback:** “great!”
+
+### 🔹 Next Project
+- **Contribution:** [describe your work]
+- **PR Link:** [link]
+- **Maintainer feedback:** [feedback]
 
 ## About Me
 Open-source contributor focused on Web3 documentation and developer experience.
