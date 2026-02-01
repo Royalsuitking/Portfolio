@@ -18,11 +18,6 @@ Helping Web3 projects with docs, onboarding &amp; DX Open-source contributor
 - **Contribution:** Improved README with tips, formatting, and contribution notes
 - **Status:** Forked and ready for Pull Request
 
-### 🔹 Next Project
-- **Contribution:** [describe your work]
-- **PR Link:** [link]
-- **Maintainer feedback:** [feedback]
-
 ## About Me
 Open-source contributor focused on Web3 documentation and developer experience.
 Contributor to the Miroir Framework with a maintainer-approved and merged PR.
