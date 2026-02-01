@@ -8,6 +8,11 @@ Helping Web3 projects with docs, onboarding &amp; DX Open-source contributor
 - **PR Link:** https://github.com/miroir-framework/miroir/pull/XXX
 - **Maintainer feedback:** “great!”
 
+### Web3 Community Engagement
+- Participated in @rallydotfun builder campaign
+- Submitted a builder insight tweet about GitHub stars
+- Earned Access Points and joined waitlist for future tasks
+
 ### trailofbits/dylint
 - **Repository:** [trailofbits/dylint](https://github.com/trailofbits/dylint)
 - **Contribution:** Improved README with tips, formatting, and contribution notes
